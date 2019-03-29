@@ -1,1 +1,1 @@
-system zapisywania kolumn i karteczek
+system zapisywania karteczek w kolumnach według statusu zadania
